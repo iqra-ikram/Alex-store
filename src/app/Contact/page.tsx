@@ -11,7 +11,7 @@ const page = () => {
       </h1>
       <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
       Thank you for visiting Alex Store!
-       We're here to assist you with any questions or concerns you might have. 
+       We are here to assist you with any questions or concerns you might have. 
        
       </p>
     </div>
